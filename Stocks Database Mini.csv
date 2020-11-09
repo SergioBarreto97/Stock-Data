@@ -1,4 +1,4 @@
-Exchange_Ticker,Ticker,Exchange,Company,Price,Shares_Outstanding,Market_Cap,Industry,Sector,Latest_Ex_Div_Date
+exchange_ticker,ticker,exchange,company,price,shares_outstanding,market_cap,industry,sector,latest_ex_div_date
 NYSE:ERJ,ERJ,NYSE,Embraer SA,5.2,185116300,962604760,Aerospace & Defense,Industrial,2000-01-01
 NYSE:TGI,TGI,NYSE,"TRIUMPH GROUP, INC.",6.2,52072830,322851546,Aerospace & Defense,Industrial,2000-01-01
 NASDAQ:ATRO,ATRO,NASDAQ,ASTRONICS CORPORATION,7.92,30755860,243586411.2,Aerospace & Defense,Industrial,2000-01-01
