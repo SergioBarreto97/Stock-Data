@@ -1,2 +1,2 @@
-Exchange_Ticker,Ticker,Exchange,Company,Price,Shares_Outstanding,Market_Cap,Industry,Sector,Latest_Ex_Div_Date
+exchange_ticker,ticker,exchange,company,price,shares_outstanding,market_cap,industry,sector,latest_ex_div_date
 NYSE:IBM,IBM,NYSE,IBM,5.58,96432660,538094242.8,Banking Services,Financial,2000-01-01
